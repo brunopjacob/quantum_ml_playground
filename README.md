@@ -1,2 +1,2 @@
 # quantum_ml_playground
-Machine learning for quantum material synthesis!
+Machine learning for quantum materials synthesis!
